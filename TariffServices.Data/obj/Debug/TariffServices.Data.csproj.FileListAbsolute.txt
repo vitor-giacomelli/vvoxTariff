@@ -1,0 +1,5 @@
+E:\VS\projects\TariffServices.Data\bin\Debug\TariffServices.Data.dll
+E:\VS\projects\TariffServices.Data\bin\Debug\TariffServices.Data.pdb
+E:\VS\projects\TariffServices.Data\obj\Debug\TariffServices.Data.csproj.CoreCompileInputs.cache
+E:\VS\projects\TariffServices.Data\obj\Debug\TariffServices.Data.dll
+E:\VS\projects\TariffServices.Data\obj\Debug\TariffServices.Data.pdb
