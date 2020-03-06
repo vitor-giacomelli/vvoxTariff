@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TariffsCalculator", "TariffsCalculator\TariffsCalculator.csproj", "{34FA9C8E-603D-43A2-9F4E-6E286753BC5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TariffServices.Data", "..\TariffServices.Data\TariffServices.Data.csproj", "{3DAB0445-9235-4151-8FF1-6086588AF8DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TariffServices.Data", "TariffServices.Data\TariffServices.Data.csproj", "{3DAB0445-9235-4151-8FF1-6086588AF8DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
