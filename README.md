@@ -1,5 +1,5 @@
 # tariffcomparer
-Open the solution(TariffsCalculator.sln) 
-run without debugging and hit the api with:
-localhost:(port)/tariff for the examples provided in the document
-localhost:(port)/tariff/number for the tariff calculator as requested.
+<p>Open the solution(TariffsCalculator.sln)
+<p>run without debugging and hit the api with:
+<p>localhost:(port)/tariff for the examples provided in the document
+<p>localhost:(port)/tariff/number for the tariff calculator as requested.
